@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate and be happy to tag along on number of projects where i can learn and improve on my skills while adding vaule to the organisations, looking for work such as research in social and economic sciences, content writing, and web designing.
 - 📫 you can reach me at [Gmail](iftikhar.sy@gmail.com) on [Discord](roshi#4568) on [LinkedIn](linkedin.com/in/iftikhar-s/) and on [Twitter](https://twitter.com/iftikhar_sy)
 
+
+[Projects Links](https://github.com/ifti891/100Devs-iftikhar/tree/main/Projects)
 <!---
 ifti891/ifti891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
