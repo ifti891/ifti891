@@ -7,7 +7,7 @@
 
 - ### [Projects Links](https://github.com/ifti891/100Devs-iftikhar/tree/main/Projects)
 
-  ## ## Link to my [Personal Web Page](https://ifti-webdev.netlify.app/)
+  ## Link to my [Personal Web Page](https://ifti-webdev.netlify.app/)
 <!---
 ifti891/ifti891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
