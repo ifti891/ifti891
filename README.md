@@ -5,7 +5,9 @@
 - 📫 you can reach me at [Gmail](iftikhar.sy@gmail.com) on [Discord](roshi#4568) on [LinkedIn](linkedin.com/in/iftikhar-s/) and on [Twitter](https://twitter.com/iftikhar_sy)
 
 
-## [Projects Links](https://github.com/ifti891/100Devs-iftikhar/tree/main/Projects)
+- ### [Projects Links](https://github.com/ifti891/100Devs-iftikhar/tree/main/Projects)
+
+  ## ## Link to my [Personal Web Page](https://ifti-webdev.netlify.app/)
 <!---
 ifti891/ifti891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
