@@ -1,4 +1,4 @@
-- 👋 Hi, I’m iftikhar,Trained Development practioner-a self taught software engineer on a journey to become a Fullstack Developer. 
+- 👋 Hi, I’m iftikhar, trained Development practioner-a self taught software engineer on a journey to become a Fullstack Developer. 
 - 👀 I’m interested in solving social issues and i take help of the technology to solve the problems
 - 🌱 I’m currently doing [100Devs](https://t.co/N1svwMYkZF) 30 weeks Bootcamp for software development engineering. Where i am focussing on learning web development. I was also selected for Stanford University's Code in Place programme. 
 - 💞️ I’m looking to collaborate and be happy to tag along on number of projects where i can learn and improve on my skills while adding vaule to the organisations, looking for work such as research in social and economic sciences, content writing, and web designing.
