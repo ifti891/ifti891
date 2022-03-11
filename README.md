@@ -5,7 +5,7 @@
 - 📫 you can reach me at [Gmail](iftikhar.sy@gmail.com) on [Discord](roshi#4568) on [LinkedIn](linkedin.com/in/iftikhar-s/) and on [Twitter](https://twitter.com/iftikhar_sy)
 
 
-- ### [Projects Links](https://github.com/ifti891/100Devs-iftikhar/tree/main/Projects)
+- ### [Projects Link](https://github.com/ifti891/100Devs-iftikhar/tree/main/Projects)
 
   ## Link to my [Personal Web Page](https://ifti-webdev.netlify.app/)
 <!---
