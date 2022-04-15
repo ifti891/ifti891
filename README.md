@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iftikhar</h1>
-<h3 align="center">A software developer, passionate about solving problems with the help of tech based in India.</h3>
+<h3 align="center">A software developer, passionate about solving problems with the help of code.</h3>
 
 <section align="center"> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ifti891&label=Profile%20views&color=0e75b6&style=flat" alt="ifti891" /> </p>
