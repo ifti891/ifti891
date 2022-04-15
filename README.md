@@ -1,14 +1,41 @@
-- 👋 Hi, I’m iftikhar, trained Development practioner-a self taught software engineer on a journey to become a Fullstack Developer. 
-- 👀 I’m interested in solving social issues and i take help of the technology to solve the problems
-- 🌱 I’m currently doing [100Devs](https://t.co/N1svwMYkZF) 30 weeks Bootcamp for software development engineering to become a fullstack engineer. 
-- 💞️ I’m looking to collaborate and be happy to tag along on number of projects where i can learn and improve on my skills while adding vaule to the organisations, looking for work such as research in social and economic sciences, content writing, and web designing.
-- 📫 you can reach me at [Gmail](iftikhar.sy@gmail.com) on [Discord](roshi#4568) on [LinkedIn](linkedin.com/in/iftikhar-s/) and on [Twitter](https://twitter.com/iftikhar_sy)
+<h1 align="center">Hi 👋, I'm Iftikhar</h1>
+<h3 align="center">A software developer, passionate about solving problems with the help of tech based in India.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ifti891&label=Profile%20views&color=0e75b6&style=flat" alt="ifti891" /> </p>
 
-- ### [Projects Link](https://github.com/ifti891/100Devs-iftikhar/tree/main/Projects)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifti891" alt="ifti891" /></a> </p>
 
-  ## Link to my [Personal Website](https://ifti-webdev.netlify.app/)
-<!---
-ifti891/ifti891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <a href="https://twitter.com/@iftikhar_sy" target="blank"><img src="https://img.shields.io/twitter/follow/@iftikhar_sy?logo=twitter&style=for-the-badge" alt="@iftikhar_sy" /></a> </p>
+
+- 🔭 I’m currently working on [building an app where all the academic blogs are available which anyone can easily locate them.](https://ifti-webdev.netlify.app/)
+
+- 🌱 I’m currently learning **Fullstack Development**
+
+- 👨‍💻 All of my projects are available at [https://ifti-webdev.netlify.app/](https://ifti-webdev.netlify.app/)
+
+- 📝 I regularly write articles on [https://hashnode.com/@smallFroms](https://hashnode.com/@smallFroms)
+
+- 💬 Ask me about **Javascript, web development, Julia, LaTeX**
+
+- 📫 How to reach me **iftikhar.sy@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Dx_XpmIXP8aOU7oXeno9ej84tCvmRTKwiWdLuWvUVUA/edit?usp=sharing](https://docs.google.com/document/d/1Dx_XpmIXP8aOU7oXeno9ej84tCvmRTKwiWdLuWvUVUA/edit?usp=sharing)
+
+- ⚡ Fun fact **social scientist need to code**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@iftikhar_sy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iftikhar_sy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/iftikhar-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/iftikhar-s" height="30" width="40" /></a>
+<a href="https://hashnode.com/@smallforms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@smallforms" height="30" width="40" /></a>
+<a href="https://discord.gg/roshi#4568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="roshi#4568" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifti891&show_icons=true&locale=en&layout=compact" alt="ifti891" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifti891&show_icons=true&locale=en" alt="ifti891" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifti891&" alt="ifti891" /></p>
