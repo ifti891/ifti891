@@ -18,11 +18,11 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@smallFroms](https://hashnode.com/@smallFroms)
 
-- 💬 Ask me about **Javascript, web development, Julia, LaTeX**
+- 💬 Ask me about **Javascript, web development, academic research, writing, Julia, LaTeX**
 
 - 📫 How to reach me **iftikhar.sy@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Dx_XpmIXP8aOU7oXeno9ej84tCvmRTKwiWdLuWvUVUA/edit?usp=sharing](https://docs.google.com/document/d/1Dx_XpmIXP8aOU7oXeno9ej84tCvmRTKwiWdLuWvUVUA/edit?usp=sharing)
+- 📄 Know about my experiences [C.V](https://docs.google.com/document/d/1Dx_XpmIXP8aOU7oXeno9ej84tCvmRTKwiWdLuWvUVUA/edit?usp=sharing)
 
 - ⚡ Fun fact **social scientist need to code**
 
