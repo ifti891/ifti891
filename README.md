@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@iftikhar_sy" target="blank"><img src="https://img.shields.io/twitter/follow/@iftikhar_sy?logo=twitter&style=for-the-badge" alt="@iftikhar_sy" /></a> </p>
 
-- 🔭 I’m currently working on [building an app where all the academic blogs are available which anyone can easily locate them.](https://ifti-webdev.netlify.app/)
+- 🔭 I’m currently working on [building an app where all the academic blogs are available which anyone can easily locate them at one place.](https://ifti-webdev.netlify.app/)
 
 - 🌱 I’m currently learning **Fullstack Development**
 
