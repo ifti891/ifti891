@@ -4,19 +4,19 @@
 <section align="center"> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ifti891&label=Profile%20views&color=0e75b6&style=flat" alt="ifti891" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifti891" alt="ifti891" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifti891" alt="ifti891" /></a> </p> -->
 
-<p align="center"> <a href="https://twitter.com/@iftikhar_sy" target="blank"><img src="https://img.shields.io/twitter/follow/@iftikhar_sy?logo=twitter&style=for-the-badge" alt="@iftikhar_sy" /></a> </p>
+<!-- <p align="center"> <a href=" target="blank"><img src="https://img.shields.io/twitter/follow/@iftikhar_sy?logo=twitter&style=for-the-badge" alt="@iftikhar_sy" /></a> </p> -->
 </section>
 
 
 - 🔭 I’m currently working on [building an app where all the academic blogs are available which anyone can easily locate them at one place.](https://ifti-webdev.netlify.app/)
 
-- 🌱 I’m currently learning **Fullstack Development**
+<!-- - 🌱 I’m  a **Software Engineer** -->
 
 - 👨‍💻 All of my projects are available at [https://ifti-webdev.netlify.app/](https://ifti-webdev.netlify.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@smallFroms](https://hashnode.com/@smallFroms)
+<!-- - 📝 I regularly write articles on [https://hashnode.com/@smallFroms](https://hashnode.com/@smallFroms) -->
 
 - 💬 Ask me about **Javascript, web development, academic research, writing, Julia, LaTeX**
 
