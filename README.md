@@ -28,9 +28,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@iftikhar_sy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iftikhar_sy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/iftikhar-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/iftikhar-s" height="30" width="40" /></a>
-<a href="https://hashnode.com/@smallforms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@smallforms" height="30" width="40" /></a>
+<a href="https://twitter.com/@codestaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@codestaan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iftikhar-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iftikhar-s/" height="30" width="40" /></a>
+<!-- <a href="https://hashnode.com/@smallforms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@smallforms" height="30" width="40" /></a> -->
 <a href="https://discord.gg/roshi#4568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="roshi#4568" height="30" width="40" /></a>
 </p>
 
