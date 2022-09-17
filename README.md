@@ -10,9 +10,10 @@
 </section>
 
 
-- 🔭 I’m currently working on [building an app where all the academic blogs are available which anyone can easily locate them at one place.](https://ifti-webdev.netlify.app/)
 
 <!-- - 🌱 I’m  a **Software Engineer** -->
+
+- I love coding and exploring new technolgies to make the world a better place. 
 
 - 👨‍💻 All of my projects are available at [https://ifti-webdev.netlify.app/](https://ifti-webdev.netlify.app/)
 
